@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: 363cbf6f7a66ea24b83351ce0980cece
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -2603631661427295159
+    second: 02.Merkurius|02.MerkuriusAction
+  - first:
+      74: 8270604796398361715
+    second: 02.Merkurius|02.MerkuriusAction.001
+  - first:
+      74: -5080931863008998003
+    second: 02.Merkurius|04.Bumi.001Action
+  - first:
+      74: -5886515191569260964
+    second: 02.Merkurius|04.Bumi.001Action.001
+  - first:
+      74: -662887341943511227
+    second: 02.Merkurius|07.cincinAction
+  - first:
+      74: -3591345587092512061
+    second: 02.Merkurius|EmptyAction
+  - first:
+      74: 8899654497164817511
+    second: 02.Merkurius|EmptyAction.001
+  - first:
+      74: 4237790157904162255
+    second: 02.Merkurius|EmptyAction.002
+  - first:
+      74: -8593187126256600667
+    second: 07.cincin|02.MerkuriusAction
+  - first:
+      74: 4613815927523213279
+    second: 07.cincin|02.MerkuriusAction.001
+  - first:
+      74: -293390985883913446
+    second: 07.cincin|04.Bumi.001Action
+  - first:
+      74: -9193043420518463978
+    second: 07.cincin|04.Bumi.001Action.001
+  - first:
+      74: 4845266366662669218
+    second: 07.cincin|07.cincinAction
+  - first:
+      74: 4865596357986044780
+    second: 07.cincin|EmptyAction
+  - first:
+      74: -5144771745039981543
+    second: 07.cincin|EmptyAction.001
+  - first:
+      74: -5655885433676966660
+    second: 07.cincin|EmptyAction.002
+  - first:
+      74: 6351718714408244993
+    second: Rotasi|02.MerkuriusAction
+  - first:
+      74: -6152048919833616606
+    second: Rotasi|02.MerkuriusAction.001
+  - first:
+      74: 111547487554533172
+    second: Rotasi|04.Bumi.001Action
+  - first:
+      74: -8518309001242599464
+    second: Rotasi|04.Bumi.001Action.001
+  - first:
+      74: 4096326769444932050
+    second: Rotasi|07.cincinAction
+  - first:
+      74: 7132820655862211559
+    second: Rotasi|EmptyAction
+  - first:
+      74: 6709364280264948148
+    second: Rotasi|EmptyAction.001
+  - first:
+      74: 1687333961991346792
+    second: Rotasi|EmptyAction.002
+  - first:
+      74: -2795455270769395134
+    second: bulan|02.MerkuriusAction
+  - first:
+      74: 4400756003906963433
+    second: bulan|02.MerkuriusAction.001
+  - first:
+      74: 7207935455544334641
+    second: bulan|04.Bumi.001Action
+  - first:
+      74: -8675836293919750621
+    second: bulan|04.Bumi.001Action.001
+  - first:
+      74: -3446118036122359566
+    second: bulan|07.cincinAction
+  - first:
+      74: 961361082909696600
+    second: bulan|EmptyAction
+  - first:
+      74: 67652641386196257
+    second: bulan|EmptyAction.001
+  - first:
+      74: 4710703413082479396
+    second: bulan|EmptyAction.002
+  - first:
+      74: 8130955877507731472
+    second: Rotasi Bulan|02.MerkuriusAction
+  - first:
+      74: 8622282407792333395
+    second: Rotasi Bulan|02.MerkuriusAction.001
+  - first:
+      74: 6792919450463529490
+    second: Rotasi Bulan|04.Bumi.001Action
+  - first:
+      74: -8341225871231419338
+    second: Rotasi Bulan|04.Bumi.001Action.001
+  - first:
+      74: -819847173088828961
+    second: Rotasi Bulan|07.cincinAction
+  - first:
+      74: -3542459263487482841
+    second: Rotasi Bulan|EmptyAction
+  - first:
+      74: 7252003485848067976
+    second: Rotasi Bulan|EmptyAction.001
+  - first:
+      74: -9057095701245612247
+    second: Rotasi Bulan|EmptyAction.002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Merk
+    second: {fileID: 2100000, guid: afb955af9ae29e34c89973b6855bef47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Venus
+    second: {fileID: 2100000, guid: b49dfe223a995ea47b000d20909cf2fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bulan
+    second: {fileID: 2100000, guid: 19e5fc4aedac417408a16767229ef0dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bumi
+    second: {fileID: 2100000, guid: a985c6a160624c948b905857c9470f33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cincin
+    second: {fileID: 2100000, guid: a73fe0a3fcd968c40942a8525aad46fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jupiter
+    second: {fileID: 2100000, guid: ec9c0a2e1474216498335cf59e2f69ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mars
+    second: {fileID: 2100000, guid: 87c04676254babf408ff81e9e53b2b13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: neptunus
+    second: {fileID: 2100000, guid: c1242e1822deac346b8b0ea5faaf1491, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pluto
+    second: {fileID: 2100000, guid: a78ccfe0df1a24e41a5d0fe91784eb98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: saturn
+    second: {fileID: 2100000, guid: 775d8250e1477004c88579167d8bf9ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sun
+    second: {fileID: 2100000, guid: bc4e70f9e3491294da001680263db063, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: uranus
+    second: {fileID: 2100000, guid: 47f8352f84993e6458cce80ba43f6ca6, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
