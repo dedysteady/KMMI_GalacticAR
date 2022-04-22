@@ -21,7 +21,11 @@ click https://github.com/dedysteady/KMMI_GalacticAR/releases/tag/final-project -
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # GalacticAR (Thesis Project)
-This project was a continuation of the KMMI program project and added some features like Games, Tutorial, Loading Screen, etc.
+This project was a continuation of the KMMI program project and added some features like Games, Tutorial, Loading Screen, etc. By the way, I shared this project only the app (.apk) not the project files of my thesis app. If you want to know more.. you can reach me on.. <br>
+
+Linkedin : https://www.linkedin.com/in/dedysteady <br>
+Github : https://www.github.com/dedysteady <br>
+Website : https://www.dedysteady.my.id <br>
 
 ## Overview
 App Name : GalacticAR <br>
