@@ -1,4 +1,11 @@
 # GalacticAR (KMMI Final Project)
+
+![Downloads](https://img.shields.io/github/downloads/dedysteady/KMMI_GalacticAR/total)
+![HitCount](https://hits.dwyl.com/dedysteady/KMMI_GalacticAR.svg?style=flat&show=unique)
+![Issues](https://img.shields.io/github/issues/dedysteady/KMMI_GalacticAR)
+![Forks](https://img.shields.io/github/forks/dedysteady/KMMI_GalacticAR)
+![Stars](https://img.shields.io/github/stars/dedysteady/KMMI_GalacticAR)
+
 This project for final project in KMMI - Kampus Merdeka Program at Universitas Nahdlatul Ulama Surabaya
 
 ## Overview
