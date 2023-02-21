@@ -8,6 +8,8 @@
 
 This project for final project in KMMI - Kampus Merdeka Program at Universitas Nahdlatul Ulama Surabaya
 
+If you wanna buy this app. Contact Me on Whatsapp +6285714737426
+
 ## Overview
 App Name : GalacticAR <br>
 Programming Language : C# <br>
