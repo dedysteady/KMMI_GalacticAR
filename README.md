@@ -20,6 +20,8 @@ Development : 2 Months <br>
 Check Releases -> click <b>final-project</b> -> download <b>GalacticAR.apk</b><br>
 or <br>
 click https://github.com/dedysteady/KMMI_GalacticAR/releases/tag/final-project -> download <b>GalacticAR.apk</b> <br>
+or <br>
+Go to https://dedysteady.itch.io/galacticar <br>
 
 ## Logo
 <img src="https://user-images.githubusercontent.com/45990233/164760369-18fcb491-642b-495e-a94a-250df4de77bc.jpeg" width="200" height="200">
